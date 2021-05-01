@@ -15,3 +15,11 @@ $ npm start
 <p>
 Open (multiple) browsers to localhost:3000!
 </p>
+<h4>Screens</h4>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Polka-Chat-Socket-IO/main/Screens/1.JPG" />
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Polka-Chat-Socket-IO/main/Screens/2.JPG" />
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Polka-Chat-Socket-IO/main/Screens/3.JPG" />
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Polka-Chat-Socket-IO/main/Screens/4.JPG" />
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Polka-Chat-Socket-IO/main/Screens/5.JPG" />
+</p>
